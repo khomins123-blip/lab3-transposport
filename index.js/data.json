@@ -1,0 +1,23 @@
+{
+  "routes": [
+    {
+      "name": "Маршрут 1",
+      "routeNumber": "1",
+      "lowFloor": true,
+      "intervals": {
+        "weekday": "10 хв",
+        "weekend": "20 хв"
+      },
+      "stops": [
+        {
+          "name": "Центр",
+          "coordinates": { "lat": 49.8397, "lng": 24.0297 }
+        },
+        {
+          "name": "Вокзал",
+          "coordinates": { "lat": 49.8450, "lng": 24.0011 }
+        }
+      ]
+    }
+  ]
+}

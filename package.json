@@ -1,0 +1,11 @@
+{
+  "name": "lab3-transposport",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
